@@ -2,5 +2,7 @@ numpy
 pandas
 matplotlib
 seaborn
+qgrid
+ipywidgets
 pulp
 jupyter-contrib-nbextensions
