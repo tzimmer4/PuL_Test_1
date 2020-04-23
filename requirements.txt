@@ -3,6 +3,4 @@ pandas
 matplotlib
 seaborn
 pulp
-qgrid
-ipywidgets
 jupyter-contrib-nbextensions
