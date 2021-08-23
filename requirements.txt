@@ -6,4 +6,4 @@ qgrid
 pulp
 ipywidgets
 jupyter-contrib-nbextensions
-jupyterlab==0.35
+jupyterlab==1.2.21
